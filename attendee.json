@@ -1,1 +1,1 @@
-[{"name":"Vivek Lall","company":"TCS","phone":"9878654534","email":"lallvivek@gmail.com"},{"name":"Mansi Gupta","company":"Wipro","phone":"9878654589","email":"mgupta@gmail.com"},{"name":"Dipti Waradkar","company":"Capgemini","phone":"9878654577","email":"diptiW@gmail.com"}]
+[{"name":"Vivek Lall","company__c":"TCS","phone__c":"9878654534","email__c":"lallvivek@gmail.com"},{"name":"Mansi Gupta","company__c":"Wipro","phone__c":"9878654589","email__c":"mgupta@gmail.com"},{"name":"Dipti Waradkar","company__c":"Capgemini","phone__c":"9878654577","email__c":"diptiW@gmail.com"}]
